@@ -1,6 +1,8 @@
 # Boilerplate NextJS
 <p>A default configuration of an application with NextJS</p>
 
+![Screen](./screens/screen.png)
+
 ## Technologies used
   - [NextJS](https://nextjs.org)
   - [Typescript](https://www.typescriptlang.org)
@@ -13,6 +15,7 @@
   - [Jest](https://jestjs.io)
   - [Testing Library React](https://testing-library.com/docs/react-testing-library/intro/)
   - [Editor Config](https://editorconfig.org/)
+  - [PWA](https://web.dev/progressive-web-apps/)
 
 ## Getting Started
 
